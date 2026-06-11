@@ -66,3 +66,4 @@ For more in depth information on production server deployment options, such as S
 ### I don't like something about it
 
 > Read the [license](LICENSE). It is licensed MIT. That means that you get no warranties or guarantees of any kind. The repository is hosted on GitHub. That means that you can make a pull request if you really want to contribute an improvement.
+
