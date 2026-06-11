@@ -39,7 +39,7 @@ npm install -g typescript
 npm install
 ```
 
-5. Run it
+5. Run
 
 ```bash
 npm run dev
