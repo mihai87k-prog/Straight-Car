@@ -21,7 +21,7 @@ Play : [https://sc.sbcode.net](https://sc.sbcode.net)
 git clone https://github.com/Sean-Bradley/Straight-Car.git
 ```
 
-2. CD into folder
+2. CD into Folder
 
 ```bash
 cd Straight-Car
@@ -39,7 +39,7 @@ npm install -g typescript
 npm install
 ```
 
-5. Start it
+5. Run it
 
 ```bash
 npm run dev
