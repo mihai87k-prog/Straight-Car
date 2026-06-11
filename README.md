@@ -66,37 +66,3 @@ For more in depth information on production server deployment options, such as S
 ### I don't like something about it
 
 > Read the [license](LICENSE). It is licensed MIT. That means that you get no warranties or guarantees of any kind. The repository is hosted on GitHub. That means that you can make a pull request if you really want to contribute an improvement.
-
-## Support
-
-To help support my free projects, please take a look at my **ThreeJS and TypeScript** Book
-
-<img style="float:left; min-width:150px;" src="./docs/threejs-typescript-250.jpg">
-
-&nbsp;<a href="https://www.amazon.com/dp/B09GYTKRCH"><img src="./docs/flag_us.gif">&nbsp; https://www.amazon.com/dp/B09GYTKRCH</a><br/>
-&nbsp;<a href="https://www.amazon.co.uk/dp/B09GYTKRCH"><img src="./docs/flag_uk.gif">&nbsp; https://www.amazon.co.uk/dp/B09GYTKRCH</a><br/>
-&nbsp;<a href="https://www.amazon.in/dp/B09GYTKRCH"><img src="./docs/flag_in.gif">&nbsp; https://www.amazon.in/dp/B09GYTKRCH</a><br/>
-&nbsp;<a href="https://www.amazon.de/dp/B09GYTKRCH"><img src="./docs/flag_de.gif">&nbsp; https://www.amazon.de/dp/B09GYTKRCH</a><br/>
-&nbsp;<a href="https://www.amazon.fr/dp/B09GYTKRCH"><img src="./docs/flag_fr.gif">&nbsp; https://www.amazon.fr/dp/B09GYTKRCH</a><br/>
-&nbsp;<a href="https://www.amazon.es/dp/B09GYTKRCH"><img src="./docs/flag_es.gif">&nbsp; https://www.amazon.es/dp/B09GYTKRCH</a><br/>
-&nbsp;<a href="https://www.amazon.it/dp/B09GYTKRCH"><img src="./docs/flag_it.gif">&nbsp; https://www.amazon.it/dp/B09GYTKRCH</a><br/>
-&nbsp;<a href="https://www.amazon.nl/dp/B09GYTKRCH"><img src="./docs/flag_nl.gif">&nbsp; https://www.amazon.nl/dp/B09GYTKRCH</a><br/>
-&nbsp;<a href="https://www.amazon.co.jp/dp/B09GYTKRCH"><img src="./docs/flag_jp.gif">&nbsp; https://www.amazon.co.jp/dp/B09GYTKRCH</a><br/>
-&nbsp;<a href="https://www.amazon.ca/dp/B09GYTKRCH"><img src="./docs/flag_ca.gif">&nbsp; https://www.amazon.ca/dp/B09GYTKRCH</a><br/>
-&nbsp;<a href="https://www.amazon.com.br/dp/B09GYTKRCH"><img src="./docs/flag_br.gif">&nbsp; https://www.amazon.com.br/dp/B09GYTKRCH</a><br/>
-&nbsp;<a href="https://www.amazon.com.mx/dp/B09GYTKRCH"><img src="./docs/flag_mx.gif">&nbsp; https://www.amazon.com.mx/dp/B09GYTKRCH</a><br/>
-&nbsp;<a href="https://www.amazon.com.au/dp/B09GYTKRCH"><img src="./docs/flag_au.gif">&nbsp; https://www.amazon.com.au/dp/B09GYTKRCH</a>
-
-and my **ThreeJS and TypeScript** courses at [Udemy](https://www.udemy.com/course/threejs-tutorials/?referralCode=4C7E1DE91C3E42F69D0F), [YouTube (Channel membership required)](https://www.youtube.com/playlist?list=PLKWUX7aMnlEKTmkBqwjc-tZgULJdNBjEd) and [Skillshare](https://skl.sh/2uxctEP)
-
-This is only just the beginning of what you will create.
-
-**Course Discount Coupons** : https://sbcode.net/coupons#threejs
-
-[![ThreeJS and TypeScript Course](docs/threejs-course-image.png)](https://youtu.be/fS4H7gm7gK4)
-
-## The Making of Straight Car Video
-
-[https://youtu.be/RuJgl03emnk](https://youtu.be/RuJgl03emnk)
-
-[![Making of Straight Car](https://img.youtube.com/vi/RuJgl03emnk/0.jpg)](https://youtu.be/RuJgl03emnk)
